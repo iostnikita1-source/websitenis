@@ -1,0 +1,55 @@
+*{
+    margin: 0
+    padding 0
+}
+html{ 
+    font-size: 1em;
+     font-family: "Caveat", cursive;
+}
+
+header {
+    background-color: rgb(202, 218, 212);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+footer {
+    background-color: rgb(98, 124, 139);
+    padding: 20px 20px;
+}
+
+#about {
+    background-color: rgb(207, 217, 231);
+    padding: 20px;
+    text-align: center;
+}
+
+#articles {
+    background-color: rgb(183, 215, 245);
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 2.4rem;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+ol {
+    padding-left: 3rem;
+}
+nav ul {
+    padding-left: 20px;
+}
+nav ul {
+    list-style: none;
+    display: flex;  
+    gap: 60px;
+    justify-content: center;
+}
